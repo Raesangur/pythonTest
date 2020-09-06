@@ -64,7 +64,7 @@ def threeArgs(arg1, arg2, arg3):
 
 import random
 
-functionList = [noArgs * 2, oneArgs * 5, twoArgs * 3, threeArgs * 10]
+functionList = [*([noArgs] * 2), *([oneArgs] * 5), *([twoArgs] * 3), *([threeArgs] * 10)]
 random.shuffle(functionList)
 
 print(functionList)
