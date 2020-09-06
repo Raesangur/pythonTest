@@ -1,0 +1,7 @@
+﻿  pythonTest.cpp
+E:\GitHub\PythonTest\pythonTest\pythonTest.cpp(8,15): warning C4101: 'pInt': unreferenced local variable
+pythonTest.obj : error LNK2019: unresolved external symbol __imp__PyRun_SimpleStringFlags referenced in function _main
+pythonTest.obj : error LNK2019: unresolved external symbol __imp__Py_Initialize referenced in function _main
+pythonTest.obj : error LNK2019: unresolved external symbol __imp__Py_Finalize referenced in function _main
+python38_d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+E:\GitHub\PythonTest\pythonTest\Debug\pythonTest.exe : fatal error LNK1120: 3 unresolved externals

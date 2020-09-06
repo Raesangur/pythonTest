@@ -1,0 +1,2 @@
+E:\GitHub\PythonTest\pythonTest\x64\Debug\pythonTest.exe
+E:\GitHub\PythonTest\pythonTest\x64\Debug\pythonTest.pdb

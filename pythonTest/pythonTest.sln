@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29814.53
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pythonTest", "pythonTest.vcxproj", "{72EAE14A-EEE7-430B-A5AA-5CF0C358E4CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72EAE14A-EEE7-430B-A5AA-5CF0C358E4CA}.Debug|x64.ActiveCfg = Debug|x64
+		{72EAE14A-EEE7-430B-A5AA-5CF0C358E4CA}.Debug|x64.Build.0 = Debug|x64
+		{72EAE14A-EEE7-430B-A5AA-5CF0C358E4CA}.Debug|x86.ActiveCfg = Debug|Win32
+		{72EAE14A-EEE7-430B-A5AA-5CF0C358E4CA}.Debug|x86.Build.0 = Debug|Win32
+		{72EAE14A-EEE7-430B-A5AA-5CF0C358E4CA}.Release|x64.ActiveCfg = Release|x64
+		{72EAE14A-EEE7-430B-A5AA-5CF0C358E4CA}.Release|x64.Build.0 = Release|x64
+		{72EAE14A-EEE7-430B-A5AA-5CF0C358E4CA}.Release|x86.ActiveCfg = Release|Win32
+		{72EAE14A-EEE7-430B-A5AA-5CF0C358E4CA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF3020C2-4BCB-4B0C-AB95-36F7BFEE9DBF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿  pythonTest.cpp
+E:\GitHub\PythonTest\pythonTest\pythonTest.cpp(8,15): warning C4101: 'pInt': unreferenced local variable
+  pythonTest.vcxproj -> E:\GitHub\PythonTest\pythonTest\x64\Debug\pythonTest.exe
